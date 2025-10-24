@@ -5,20 +5,20 @@ Muitas escolas situadas em áreas remotas do Brasil não possuem um sistema para
 
 ## Tela de Login
 
-<img src="assets/login.jpg">
+<img src="./assets/login.jpg">
 
 ## Tela de Turmas
 
-<img src="assets/verturmas.jpg">
+<img src="./assets/verturmas.jpg">
 
 ## Tela de Cadastro de Turmas
 
-<img src="assets/cadastrarturma.jpg">
+<img src="./assets/cadastrarturma.jpg">
 
 ## Tela de Atividades
 
-<img src="assets/veratividades.jpg">
+<img src="./assets/veratividades.jpg">
 
 ## Tela de Cadastrar Atividades
 
-<img src="assets/cadastroatividade.jpg">
+<img src="./assets/cadastroatividade.jpg">
